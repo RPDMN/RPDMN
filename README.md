@@ -1,6 +1,6 @@
-[![MasterHead](https://cdn.dribbble.com/users/6569/screenshots/15051410/media/4fc0d807ed5a350887a47b1af60f5bf7.png)]()
+[![MasterHead](https://www.canva.com/design/DAFMv638OnA/MG1wU6lTOYu2IZfzoMuE2g/watch?utm_content=DAFMv638OnA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)]()
 <h1 align="center">Hi 👋, I'm Ripudaman Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An Innovative Full Stack developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
