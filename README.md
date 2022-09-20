@@ -1,4 +1,7 @@
-[![MasterHead](https://www.canva.com/design/DAFMv638OnA/MG1wU6lTOYu2IZfzoMuE2g/watch?utm_content=DAFMv638OnA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)]()
+
+<p align="center">
+  <img width='750' height='350' src="https://github.com/RPDMN/RPDMN/blob/main/Banner.png?raw=true">
+</p>
 <h1 align="center">Hi 👋, I'm Ripudaman Singh</h1>
 <h3 align="center">An Innovative Full Stack developer from India</h3>
 
