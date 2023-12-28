@@ -1,7 +1,3 @@
-<p align="center">
-<img width='900' height='350' src="https://raw.githubusercontent.com/RPDMN/RPDMN/main/BANNER.png">
-</p>
-
 <h1 align="center">Hi 👋, I'm Ripudaman Singh</h1>
 <h3 align="center">An Innovative Full Stack developer from India</h3>
 
